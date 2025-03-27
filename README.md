@@ -6,3 +6,4 @@ this is 2nd line added to witness conflict
 
 new era 1st commit
 new era 2nd commit
+new era 3rd commit
